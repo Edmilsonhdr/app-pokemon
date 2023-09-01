@@ -1,4 +1,7 @@
 # PokeDex App - Gerador de Pokémons Aleatórios
+
+![App-Pokemon-—-Mozilla-Firefox-2023-08-31-21-42-20](https://github.com/Edmilsonhdr/app-pokemon/assets/92001139/ec9a2501-0680-4f29-b10c-fd5854a537ea)
+
 PokeDex App, um projeto desenvolvido com React e Laravel que permite aos usuários explorar e interagir com o mundo Pokémon! Com este aplicativo, os usuários podem gerar pokémons aleatórios, salvar suas informações e editar seus nomes. Uma lista dos pokémons salvos é exibida ao lado, proporcionando uma visão geral dos pokémons que você já conheceu.
 
 ## Recursos Principais

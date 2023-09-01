@@ -1,0 +1,9 @@
+
+.tamanho-img {
+  width: 200px; 
+  height: auto; 
+}
+
+.dados_gerados {
+  display: flex;
+}
